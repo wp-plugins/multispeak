@@ -3,7 +3,7 @@ Contributors: multispeak
 Tags: live video, live chat, live audio, customer support, customer analytics, contact us, webrtc 
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 4.2
+Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,10 +33,10 @@ Please visit [https://multispeak.io/#faq](https://multispeak.io/#faq "Multispeak
 
 == Screenshots ==
 
-1. **Main messaging window**
-2. **Helpdesk interface screen**
-3. **Multispeak control centre screen**
-4. **Offline messaging screen**
+1. Main messaging window.
+2. Helpdesk interface screen.
+3. Multispeak control centre screen.
+4. Offline messaging screen.
 
 == Changelog ==
 
