@@ -37,11 +37,3 @@ Please visit [https://multispeak.io/#faq](https://multispeak.io/#faq "Multispeak
 2. Helpdesk interface screen.
 3. Multispeak control centre screen.
 4. Offline messaging screen.
-
-== Changelog ==
-
-N/a
-
-== Upgrade Notice ==
-
-N/a
