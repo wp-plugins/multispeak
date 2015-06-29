@@ -12,7 +12,9 @@ MultiSpeak unlocks a full suite of communication options. Experience live video 
 == Description ==
 
 MultiSpeak widget unlocks a full suite of communication options for you and your customers. For the first time, experience live video and audio alongside a robust chat system, all in one easy to use interface.
+
 The multispeak product has some seriously cool functionality. Once installed on your website, it can do the following:
+
 * It enables anyone visiting your website to start a live chat with your helpdesk staff members.
 * By clicking on the audio call button, it enables voice-over-IP (VOIP) calls from your customers to your helpdesk staff.
 * Only when allowed by your helpdesk staff, visitors to your website can even make live video calls for enhanced help and support.
