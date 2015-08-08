@@ -2,17 +2,19 @@
 Contributors: multispeak
 Tags: live video, live chat, live audio, customer support, customer analytics, contact us, webrtc 
 Requires at least: 3.0.1
-Tested up to: 4.2.2
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-MultiSpeak unlocks a full suite of communication options. Experience live video and audio alongside a robust chat system, in one easy to use interface.
+Multispeak unlocks a full suite of communication options. Experience live video and audio alongside a robust chat system, in one easy to use interface.
 
 == Description ==
 
-MultiSpeak widget unlocks a full suite of communication options for you and your customers. For the first time, experience live video and audio alongside a robust chat system, all in one easy to use interface.
-The multispeak product has some seriously cool functionality. Once installed on your website, it can do the following:
+Multispeak widget unlocks a full suite of communication options for you and your customers. For the first time, experience live video and audio alongside a robust chat system, all in one easy to use interface.
+
+The Multispeak product has some seriously cool functionality. Once installed on your website, it can do the following:
+
 * It enables anyone visiting your website to start a live chat with your helpdesk staff members.
 * By clicking on the audio call button, it enables voice-over-IP (VOIP) calls from your customers to your helpdesk staff.
 * Only when allowed by your helpdesk staff, visitors to your website can even make live video calls for enhanced help and support.
@@ -25,7 +27,7 @@ The multispeak product has some seriously cool functionality. Once installed on 
 
 1. Upload `multispeak` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Get the multispeak company id from multispeak.io and then add it on 'Settings > Multispeak'
+3. Get the Multispeak company id from multispeak.io and then add it on 'Settings > Multispeak'
 
 == Frequently Asked Questions ==
 
