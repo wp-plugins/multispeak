@@ -3,7 +3,7 @@
 Plugin Name: Multispeak
 Plugin URI: http://www.multispeak.io/
 Description: A simple plugin to add Multispeak widget on your pages. This widget will allow to add chat, audio and video support to your pages.
-Version: 1.0
+Version: 1.1
 License: GPL2
 Author: Multispeak
 */
