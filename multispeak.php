@@ -91,10 +91,11 @@ function multispeak_footer(){
   }
 
   /* settings link in plugin management screen */
-  function multispeak_settings_link($links) {
-    $link = '<a href="'. menu_page_url('multispeak_page_settings',false).'">Settings</a>';
-		array_unshift($links, $link) ;
-    return $links;
+  function multispeak_settings_link($actions, $file) {
+    if(false !== strpos($file,'multispeak')){
+      $actions['settings'] = '<a href="'. menu_page_url('multispeak_page_settings',false).'">Settings</a>';
+    }
+    return $actions;
   }
   add_filter('plugin_action_links', 'multispeak_settings_link', 2, 2);
 ?>
